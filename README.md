@@ -6,7 +6,7 @@
 
 	<body>
 <br>
-<a href="HUB.html" target="_blank">
+<a href="https://szym0neek.github.io/HOME/" target="_blank">
 <p><img src="HUB.png" width="200"></p>
 </a>
 
