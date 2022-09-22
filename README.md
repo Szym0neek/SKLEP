@@ -6,7 +6,7 @@
 
 	<body>
 <br>
-<a href="https:wwwstrona.github.io/HOME/" target="_blank">
+<a href="https://wwwstrona.github.io/HOME/" target="_blank">
 <p><img src="HUB.png" width="250"></p>
 </a>
 
