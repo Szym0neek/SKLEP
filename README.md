@@ -7,7 +7,7 @@
 	<body>
 <br>
 <a href="https://szym0neek.github.io/HOME/" target="_blank">
-<p><img src="HUB.png" width="200"></p>
+<p><img src="HUB.png" width="250"></p>
 </a>
 
 
