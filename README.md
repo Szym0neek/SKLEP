@@ -12,22 +12,22 @@
 
 
 <br>
-<a href="" target="_blank">
+<a href="https://discord.gg/eamkKUYVRS" target="_blank">
 <p><img src="VIP.png" width="200"></p>
 </a>
 
 <br>
-<a href="" target="_blank">
+<a href="https://discord.gg/zh2GNWfcbk" target="_blank">
 <p><img src="SVIP.png" width="200"></p>
 </a>
 
 <br>
-<a href="" target="_blank">
+<a href="https://discord.gg/PEFkukCVvh" target="_blank">
 <p><img src="SPONSOR.png" width="200"></p>
 </a>
 
 <br>
-<a href="" target="_blank">
+<a href="https://discord.gg/xD8y6NkkGF" target="_blank">
 <p><img src="ELITA.png" width="200"></p>
 </a>
 
